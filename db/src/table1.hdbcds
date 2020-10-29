@@ -1,0 +1,12 @@
+namespace abc.db;
+
+context table1 {
+};
+
+/*@@layout{"layoutInfo":{"x":-267,"y":-58.5}}*/
+entity Entity_1 {
+    elem_1 : String(10);
+    elem_2 : String(10);
+    elem_3 : String(10);
+    elem_4 : String(10);
+};
