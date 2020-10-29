@@ -1,0 +1,19 @@
+{
+  "cross_schema": {
+    "object_owner": {
+      "global_roles": [
+      {
+        "roles":["acc_role_objectowner"]
+        
+        }
+      ]
+    },
+    "application_user": {
+      "global_roles": [
+        {
+        "roles":["acc_role_applicationuser"]
+        }
+      ]
+    }
+  }
+}

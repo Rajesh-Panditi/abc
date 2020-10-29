@@ -1,0 +1,8 @@
+{
+  "abc.db::ACC": {
+    "target": {
+      "object": "ACC",
+      "schema": "TEST"
+    }
+  }
+}
